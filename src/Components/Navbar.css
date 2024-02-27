@@ -1,10 +1,23 @@
-.main{
+.main {
     display: flex;
     justify-content: center;
 }
 
 
-.logo{
+.logo {
     max-width: 100%;
-    max-height: 13vh;
+    height: 13vh;
+}
+
+@media (max-width:1250px) {
+    .logo {
+        height: 6rem;
+    }
+
+}
+
+@media (max-width:500px) {
+    .logo {
+        max-height: 4rem;
+    }
 }

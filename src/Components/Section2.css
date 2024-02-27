@@ -25,3 +25,74 @@
     text-align: center;
 }
 
+@media (max-width:1200px) {
+    .section2main{
+        margin-top: 5rem;
+    }
+    .section2text1{
+        text-align: center;
+        padding: 0 1rem;
+        font-weight: 800;
+        font-size: 1.4rem;
+    }
+    .section2img {
+        margin-top: 0.7rem;
+        height: 14rem;
+    }
+    .section2text2{
+        text-align: center;
+        font-weight: 200;
+        margin-top: 0.2rem;
+        font-size: 1.4rem;
+        padding: 0 2rem;
+    }
+    
+    .section2text3{
+      font-size: 0.9rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+        margin-left: 1rem;
+        text-align: center;
+    }
+    .section2text4{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+}
+
+@media (max-width:660px) {
+    .section2main{
+        margin-top: 5rem;
+    }
+    .section2text1{
+        text-align: center;
+        padding: 0 1rem;
+        font-weight: 800;
+        font-size: 0.7rem;
+    }
+    .section2img {
+        margin-top: 0.7rem;
+        height: 7rem;
+    }
+    .section2text2{
+        text-align: center;
+        font-weight: 200;
+        margin-top: 0.2rem;
+        font-size: 0.7rem;
+        padding: 0 2rem;
+    }
+    
+    .section2text3{
+      font-size: 0.9rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+        margin-left: 1rem;
+        text-align: center;
+    }
+    .section2text4{
+        font-size: 0.5rem;
+        font-weight: 500;
+    }
+
+}
