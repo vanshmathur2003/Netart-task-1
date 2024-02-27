@@ -1,0 +1,9 @@
+.footermain{
+    background-color: rgb(241, 66, 66);
+    display: flex;
+    justify-content: space-evenly;
+    height: 6rem;
+    padding-top: 20px;
+    color: white;
+    font-family: sans-serif;
+}
